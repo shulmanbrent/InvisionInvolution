@@ -1,6 +1,6 @@
 ## Welcome to Invision Involution
 
-We are one of the fastest growing providers of new and innovative electronics. Our team carefully reviews all of the latest technologies and only bring the best of the best to you!
+We are one of the fastest growing providers of new and innovative electronics. Our team carefully reviews all of the latest technologies and only brings the best of the best to you!
 
 ### Location
 
@@ -8,7 +8,7 @@ We currently operate out of Orange County, California. However, our offices will
 
 ### Team
 
-At Invision Involution, our team is critiacal to our success. We are proud to have a diverse grouop of individuals, spanning multiple locations and generations.
+At Invision Involution, our team is critical to our success. We are proud to have a diverse grouop of individuals, spanning multiple locations and generations.
 - Glenn Shulman - President / CEO / Chief Dreamer
 - Julie Shulman - Executive Vice President
 - Dan Shasteen - Senior Consultant
