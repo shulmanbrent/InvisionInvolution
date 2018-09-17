@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Envision Evolution
 
-You can use the [editor on GitHub](https://github.com/shulmanbrent/EnvisionEvolution/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are one of the fastest growing providers of new and innovative electronics. Our team carefully reviews all of the latest technologies and only bring the best of the best to you!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Location
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We operate of out Orange County, California. However, our offices will soon be relocating to San Diego.
 
 ```markdown
 Syntax highlighted code block
