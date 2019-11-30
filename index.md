@@ -1,6 +1,6 @@
 ## Welcome to Invision Involution
 
-We are one of the fastest growing providers of new and innovative electronics. Our team carefully reviews all of the latest technologies and only brings the best of the best to you!
+We are one of the fastest growing providers of new and innovative home and automotive electronics. Our team carefully reviews all of the latest technologies and only brings the best of the best to you!
 
 ### Location
 
