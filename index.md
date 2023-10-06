@@ -8,15 +8,15 @@ We currently operate out of Orange County, California. However, our offices will
 
 ### Team
 
-At Invision Involution, our team is critical to our success. We are proud to have a diverse group of individuals, spanning multiple locations and generations.
+At Invision Involution, our team is critical to our success. We are proud to have a diverse group of individuals spanning multiple locations and generations.
 - Glenn Shulman - President / CEO / Chief Dreamer
 - Julie Zerg - Executive Vice President
 - Dan Shasteen - Senior Consultant
 - Brent Shulman - Consultant
 - Matthew Shulman - Consultant / Asset Procurement
-- Lauren Elizabeth - High School Intern
+- Lauren Elizabeth - College School Intern
 
 
 ### Contact
 
-Reach us by emailing [admin@invisioninvolution.info](mailto:admin@invisioninvolution.info)
+Reach us by emailing [invisioninvolution@gmail.com](mailto:invisioninvolution@gmail.com)
